@@ -2,5 +2,6 @@ numpy
 pandas
 matplotlib.pyplot
 pandas_datareader
-from yahoo_fin import stock_info
+yahoo_fin
+tensorflow
 streamlit
